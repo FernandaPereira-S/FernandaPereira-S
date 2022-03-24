@@ -18,7 +18,6 @@
   
 <div align="center"><br>
   <a href="https://www.linkedin.com/in/fernandapereiradasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/fernanda_iil/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/FernandaPereira-S/FernandaPereira-S/blob/output/github-contribution-grid-snake.svg)
  
