@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Fernanda 👋
 
 - 🔭 Estudante de Sistemas de Informação na Facesg
-- 🌱 Desenvolvedora Web em formação na Resilia
 
 <div align="center">
   <a href="https://github.com/FernandaPereira-S">
