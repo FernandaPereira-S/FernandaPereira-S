@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Fernanda 👋
 
-- 🔭 Estudante de Sistemas de Informação na Facesg
+- 🔭 Estudante de Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/FernandaPereira-S">
